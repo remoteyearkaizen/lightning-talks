@@ -1,6 +1,6 @@
 ## lightning-talks
 
-#4/25/17  
+# 4/25/17  
 Ian
 * Select your seat tool
     * Smart Seat
@@ -19,3 +19,13 @@ Jace
 * WPC
 * Phone app
     * [Xamarin](https://www.xamarin.com/)
+
+# 5/16/2017
+Eric
+* Sketch + Zeplin + InVision
+    * [slides](https://docs.google.com/presentation/d/1CzNHbQmdMxwDulzmgGhWGzrU1VNeqx7w9i22P6jUoZk/edit?ts=591adb15#slide=id.p)
+
+Daniel
+* Git Rebase
+    * [Official Documentation](https://git-scm.com/docs/git-rebase)
+    * [Atlassian Docs](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
